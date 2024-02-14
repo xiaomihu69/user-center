@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://120.26.218.238:3306/user_center
+    port: 3306
+    database: user_center
+    username: xiaomihu
+    password: xiaomihu
