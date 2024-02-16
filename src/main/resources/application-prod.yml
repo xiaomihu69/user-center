@@ -6,3 +6,5 @@ spring:
     database: user_center
     username: xiaomihu
     password: xiaomihu
+server:
+  address: 0.0.0.0
